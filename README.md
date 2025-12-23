@@ -33,13 +33,6 @@ JWT 기반 인증 방식을 직접 구현하며 보안 동작 원리를 이해�
 ### Authentication
 
 - **JWT (JSON Web Token)**
-
-### Validation / Test
-
-- **Spring Validation**
-- **Spring Security Test**
-- **JUnit 5**
-
 ---
 
 ## 주요 학습 내용
